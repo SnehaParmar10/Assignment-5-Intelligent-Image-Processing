@@ -9,8 +9,8 @@
 A comprehensive **end-to-end image processing pipeline** demonstrating advanced computer vision techniques including acquisition, preprocessing, enhancement, segmentation, feature extraction, performance evaluation, and visualization.
 
 **Student Details:**
-- **Name:** Ashish Yadav
-- **Roll No:** 2301010413
+- **Name:** Sneha Parmar
+- **Roll No:** 2301010398
 - **Course:** BTech CS (Computer Science & Engineering)
 - **Assignment:** Assignment-5 - Intelligent Image Processing System
 - **Date:** April 9, 2026
@@ -308,8 +308,8 @@ This project demonstrates:
 ║     INTELLIGENT IMAGE PROCESSING SYSTEM - WELCOME              ║
 ╚════════════════════════════════════════════════════════════════╝
 
-Student Name:    Ashish Yadav
-Roll No:         2301010413
+Student Name:    Sneha Parmar
+Roll No:         2301010398
 Course:          BTech CSE
 Assignment:      Assignment-5
 Date:            April 09, 2026
@@ -360,10 +360,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👨‍💼 Author
 
-**Ashish Yadav**
-- Roll No: 2301010413
+**Sneha Parmar**
+- Roll No: 2301010398
 - Course: BTech CS (Computer Science & Engineering)
-- Email: ashish.yadav@college.edu
+- Email: 2301010398@krmu.edu.in
 
 ---
 
@@ -393,7 +393,7 @@ A: Currently CPU-based. GPU acceleration can be added using CUDA/CuPy.
 
 For issues, questions, or suggestions:
 - Create an issue on GitHub
-- Email: ashish.yadav@college.edu
+- Email: 2301010398@krmu.edu.in
 - Subject: Assignment-5 Support
 
 ---
