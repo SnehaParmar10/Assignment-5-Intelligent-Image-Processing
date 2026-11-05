@@ -8,7 +8,7 @@
 
 A comprehensive **end-to-end image processing pipeline** demonstrating advanced computer vision techniques including acquisition, preprocessing, enhancement, segmentation, feature extraction, performance evaluation, and visualization.
 
-**Student Details:**
+**Student Details:**...
 - **Name:** Sneha Parmar
 - **Roll No:** 2301010398
 - **Course:** BTech CS (Computer Science & Engineering)
